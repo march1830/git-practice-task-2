@@ -4,7 +4,12 @@ three
 four
 five
 six
+
 new line git_1
 new line git_1
+
+new line
+new line
+
 nine
 ten
